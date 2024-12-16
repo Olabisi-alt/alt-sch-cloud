@@ -70,7 +70,7 @@ Updated the security group to allow inbound traffic on port 80.
 Registered a subdomain via FreeDNS and mapped it to the instance's public IP.
 - Security Group Configuration: Added an inbound rule to allow HTTP (port 80) traffic.
 - Domain Routing:
-Registered a free subdomain on FreeDNS.
+Registered a free subdomain on FreeDNS(https://freedns.afraid.org/subdomain/)
 - Mapped the public IP to the subdomain 
 ```
 http://olacloud.mooo.com/
